@@ -224,8 +224,4 @@ The migration process from MySQL to PostgreSQL has been successfully completed w
 3. Data import into PostgreSQL using the `COPY` command or modified `SQL` files.
 4. Data verification and consistency checks to ensure integrity.
 
-This concludes the migration process. The data is now available in PostgreSQL with full integrity.
 
----
-
-Let me know if you need further modifications or clarifications!
